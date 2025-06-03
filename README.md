@@ -1,12 +1,5 @@
 # Final-exam
 ### Python Journal Template
-
-**Name:** Learner  
-**Date:** 03/15/2024  
-**Final IDE Program Share Link:** https://onlinegdb.com/ABC123  
-
----
-
 ### PART 1: Defining Your Problem  
 **Task:** State the problem you are planning to solve.  
 
